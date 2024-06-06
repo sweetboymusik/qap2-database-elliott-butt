@@ -1,0 +1,9 @@
+QAP 2 - Database
+Elliott Butt
+
+1. About 5-6 hours
+2. Postgres docs
+3. No, no extra help from friends
+4. No, no extra help from instructors
+5. These were at a good complexity for where we are in the course. 
+   A little time consuming, but not overly difficult.
